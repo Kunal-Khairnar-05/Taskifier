@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604870955911",
+    "project_id": "my-todo-lite-5ecd4",
+    "storage_bucket": "my-todo-lite-5ecd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604870955911:android:97b0b5348ef2cec7d73922",
+        "android_client_info": {
+          "package_name": "com.example.todolite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9fTqCNkFJW75a8pbwAOH4ojpy97R60Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
